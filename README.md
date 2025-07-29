@@ -20,8 +20,6 @@ RQ1: What is the predictive performance of multi-model ensemble projections from
 
 RQ2: What are the benefits and challenges of such multi-model ensembles?
 
----
-
 ### References
 
 1.	Green LE, Medley GF. Mathematical modelling of the foot and mouth disease epidemic of 2001: strengths and weaknesses. Res Vet Sci. 2002 Dec;73(3):201–5.
