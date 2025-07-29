@@ -1,6 +1,6 @@
 # Multi-model ensembles for infectious disease forecasting: A systematic review
 
-- [Full protocol registration](https://osf.io/84zhn)
+[Full protocol registration](https://osf.io/84zhn)
 
 ## Background
 
