@@ -2,9 +2,9 @@
 
 - [Full protocol registration](https://osf.io/84zhn)
 
-## Background
+## Background
 
-### Rationale
+### Rationale
 
 Infectious disease modelling is a useful tool for supporting outbreak control, offering to interpret the complex uncertainty of epidemiological dynamics. Modellers handle this uncertainty with a variety of approaches, choices, and interpretations during modelling work. Working in collaboration offers comparability across this diversity of modelling work. Modelling collaborations may aim to enable expert elicitation among modellers, clarify the extent and policy relevance of uncertainty, or provide a synthesis of modelling evidence (1–4). Specifically, collaboration among multiple independent and diverse modelling teams may create a stronger basis for evidence-informed policy support (5,6).
 
@@ -12,7 +12,7 @@ Outputs from such modelling collaborations often include a quantitative combinat
 
 This review aims to summarise existing evidence on the predictive accuracy of multi-model ensemble projections of infectious disease (forecasts). As a secondary aim, this review will capture some of the benefits and challenges involved in such collaborations among modellers. This will draw together an increasing literature analysing multi-model collaborations, and support their future design, communication, and evaluation.
 
-### Objectives
+### Objectives
 
 To assess the accuracy and value of multi-model ensembles for forecasting infectious disease outbreaks.
 
@@ -22,7 +22,7 @@ RQ2: What are the benefits and challenges of such multi-model ensembles?
 
 ---
 
-### References
+### References
 
 1.	Green LE, Medley GF. Mathematical modelling of the foot and mouth disease epidemic of 2001: strengths and weaknesses. Res Vet Sci. 2002 Dec;73(3):201–5.
 2.	Hollingsworth TD, Medley GF. Learning from multi-model comparisons: Collaboration leads to insights, but limitations remain. Epidemics. 2017 Mar 1;18:1–3.
