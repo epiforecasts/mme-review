@@ -23,15 +23,18 @@ q_arxiv <- '("infectious disease" OR "epidemic*" OR "pandemic*"  OR  "outbreak*"
 library(aRxiv)
 library(medrxivr)
 # medrxiv
-mx_data <- mx_api_content()
+mx_data <- mx_api_content(server = "medrxiv",
+                          from_date = "2013-01-01",
+                          to_date = "2025-09-23")
 
-r_medrxiv <- mx_search(data = mx_api_content(to_date = "2025-09-23"),
+r_medrxiv <- mx_search(data = ,
                        query = q_medrxiv,
                        fields = c("title", "abstract"))
 mx_export(r_medrxiv, file = "data/medrxiv.bib")
 
 # arxiv
-r_arxiv_l <- arxiv_search(q_arxiv, limit = arxiv_count(q_arxiv),
+r_arxiv_l <- arxiv_search(q_arxiv,
+                          limit = arxiv_count(q_arxiv),
                           output_format = "list")
 
 

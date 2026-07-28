@@ -2,6 +2,44 @@
 
 - [Full protocol registration](https://osf.io/84zhn)
 
+## Current status
+
+### Paper flow
+
+1164 references imported for screening as 1163 studies
+	11 duplicates identified manually
+	57 duplicates identified by Covidence
+1095 studies screened against title and abstract
+	881 studies excluded
+107 studies assessed for full-text eligibility
+	53 studies excluded
+		34  Wrong intervention
+		7  Wrong outcomes
+		6  Wrong study design
+		4  Wrong comparator
+		2  Wrong population
+	0 studies ongoing
+	0 studies awaiting classification
+54 studies included
+
+### Next steps
+
+See also: [Issues](https://github.com/epiforecasts/mme-review/issues)
+
+Search:
+
+- Re-run search
+- Filter for duplicates 
+- Screen for relevance
+
+Extraction:
+- [x] Extraction template
+- [ ] Upload full texts
+- [ ] Pull data for each study
+
+Analysis:
+
+
 ## Background
 
 ### Rationale
